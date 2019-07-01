@@ -1,7 +1,7 @@
-d = {1:"apple", 2:"banana", 3:"cat", 4:"dog", 5:"egg"}
-print(d.get(1))
-print(d.get(6))
-print(d.get(6,"frog"))
-print(d)
+import csv
 
-d.pop(1)
+with open('solar_2013.csv', 'r') as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        print(row)
+        print(row['월'], row['일'], row[' 1h '])
