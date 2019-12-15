@@ -9,7 +9,8 @@ Algorithm Class
 -
 
 3) Searching
--
+-기수 탐색 트라이(radixSearchTrie)
+-패트리샤트리(patriciaTree)
 
 4) String
 -직선적 알고리즘(bruteForce)
