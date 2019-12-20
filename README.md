@@ -1,10 +1,7 @@
 # Algorithm with Python
-
 아래 내용은 인천대학교 컴퓨터공학부 채진석 교수님 수업을 따랐음을 밝힙니다.
 
-<img src="./img/1.png" width="600px" height="400px" title="소프트웨어 실행 구조" alt="Software Architecture"> </img> 
-<!-- [Fig](./img/1.png) --> 
-
+---
 
 ## 1.알고리즘과 문제 해결
     > 알고리즘기술언어(ADL)
