@@ -103,13 +103,3 @@
   - JsonTo
    
 ----
-  - sample graph
-    <!-- ![50이하인 차량 그래프](./img/under_50_graph.PNG) -->
-<img src="./img/under_50_graph.PNG" width="600px" height="400px" title="50% 이하 차량 그래프" alt="Software Architecture"> </img>  
-
-  - ![데이터 구간 종류(50% 이하)](./img/under50.png)
-    - ① - 데이터
-    - ③ - ②, ④
-    - ④ - 주행
-  
-    
